@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 Hi there, Im Jeremy
 
-<!--
-**trungy-bui/trungy-bui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have a background in programming and game development, with a strong interest in building interactive and data-driven applications. I enjoy working on projects that combine problem-solving, creativity, and technical execution.
 
-Here are some ideas to get you started:
+## 🎮 **About Me**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ **Technical Knowledge**
+![Lua](https://img.shields.io/badge/-Luau-05122A?style=flat&logo=lua)
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
+![Roblox](https://img.shields.io/badge/-Roblox-05122A?style=flat&logo=roblox)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)\
+![roblox-ts](https://img.shields.io/badge/-roblox--ts-05122A?style=flat&logo=typescript)
+![Flamework](https://img.shields.io/badge/-Flamework-05122A?style=flat&logo=fireship)
+![Roblox
+Studio](https://img.shields.io/badge/-Roblox%20Studio-05122A?style=flat&logo=roblox)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
