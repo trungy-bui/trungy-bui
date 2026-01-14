@@ -27,7 +27,7 @@ I have a background in programming and game development, with a strong interest 
   
 ## 🌐 **Let's Connect:**
 
-[![LinkedIn](https://img.shields.io/badge/-Jeremy%20Bui-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jeremy-bui-458362397/) 
+[![LinkedIn](https://img.shields.io/badge/-Jeremy%20Bui-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jeremy-bui-458362397/) 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](http://tiny.cc/codingportfolio) 
 [![Email](https://img.shields.io/badge/-Jeremy.Bui-8B89CC?style=for-the-badge&logo=ProtonMail&logoColor=white)](mailto:jeremyfromamerica@gmail.com)
 
