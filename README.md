@@ -12,4 +12,4 @@ I have a background in programming and game development, with a strong interest 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jeremyfromamerica@gmail.com) 
 
 # 📊 GitHub Stats:
-![JeremyBui's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=trungy-bui)](https://github.com/trungy-bui/github-readme-stats-fast)
+![JeremyBui's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=trungy-bui)]
