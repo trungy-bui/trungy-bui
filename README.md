@@ -2,9 +2,13 @@
 
 I have a background in programming and game development, with a strong interest in building interactive and data-driven applications. I enjoy working on projects that combine problem-solving, creativity, and technical execution.
 
+---
 
 # 💻 **Tech Stack:**
+
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+---
 
 # 🎯 **Core Expertise**
 
@@ -18,10 +22,23 @@ I have a background in programming and game development, with a strong interest 
 * Power BI Dashboard
 * Data reporting on business insights and metrics
 
+---
+
+# 📊 **Projects I'm working on**
+
+![Screen Recording 2025-09-06 150314](https://github.com/user-attachments/assets/30de1477-ea5c-4075-859a-8644341b7057)
+
+![Recording 2026-01-14 155923](https://github.com/user-attachments/assets/aed93e6b-ad60-4c4e-a2dd-e7d06ec154e0)
+
+---
+  
 ## 🌐 **Let's Connect:**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jeremy-bui-458362397/) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jeremyfromamerica@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/-Jeremy%20Bui-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jeremy-bui-458362397/) 
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](http://tiny.cc/codingportfolio) 
+[![Email](https://img.shields.io/badge/-Jeremy.Bui-8B89CC?style=for-the-badge&logo=ProtonMail&logoColor=white)](mailto:jeremyfromamerica@gmail.com)
+
+---
 
 # 📊 **GitHub Stats:**
 ![JeremyBui's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=trungy-bui)
