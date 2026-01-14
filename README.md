@@ -12,11 +12,6 @@ I have a background in programming and game development, with a strong interest 
 
 # 🎯 **Core Expertise**
 
-## **Roblox Game Development**
-* Developed multiplayer game systems
-* Modular, maintainable codebases
-* Performance optimization and debugging
-
 ## **Data & Analytics**
 * SQL Querying and data modeling
 * Power BI Dashboard
