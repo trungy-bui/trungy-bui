@@ -20,12 +20,8 @@ I have a background in programming and game development, with a strong interest 
 
 ## 🌐 **Let's Connect:**
 
-<div align="center">
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jeremy-bui-458362397/) 
-    [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jeremyfromamerica@gmail.com) 
-<div align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jeremy-bui-458362397/) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jeremyfromamerica@gmail.com) 
 
 # 📊 **GitHub Stats:**
-<div align="center">
-    ![JeremyBui's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=trungy-bui)
-<div align="center">
+![JeremyBui's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=trungy-bui)
