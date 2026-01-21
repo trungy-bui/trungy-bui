@@ -14,6 +14,7 @@ I have a background in programming and game development, with a strong interest 
 
 ## **Data & Analytics**
 * SQL Querying and data modeling
+* Python for data analysis
 * Power BI Dashboard
 * Data reporting on business insights and metrics
 
