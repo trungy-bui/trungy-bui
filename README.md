@@ -22,8 +22,7 @@ I have a background in programming and game development, with a strong interest 
 # 📊 **Projects I'm working on**
 
 ![Recording 2026-01-14 155923](https://github.com/user-attachments/assets/aed93e6b-ad60-4c4e-a2dd-e7d06ec154e0)
-![Recording2026-01-21092604-ezgif com-resize](https://github.com/user-attachments/assets/334ccabe-c575-41e7-87d2-efb70c746895)
-
+![Uploading Recording2026-01-21092604-ezgif.com-resize (1).gif…]()
 
 ---
   
